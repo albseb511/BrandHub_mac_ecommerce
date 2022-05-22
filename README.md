@@ -7,7 +7,7 @@ I used React, Redux, Thunk , Material Ui, MongoDb, Postman,
 
 
 
-# 2. Quick Start
+# 3. Quick Start
 1. Open a folder where you want to clone the repo
 2. Add command git clone https://github.com/avinash70008/BrandHub_mac_ecommerce
 3. The repository folder is cloned
